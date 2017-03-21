@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<person>
+  <firstname>Alex</firstname>
+  <lastname>Whitman</lastname>
+  <home>Sherman Oaks</home>
+  <skill name="C Plus Plus"/>
+  <skill name="VMWare"/>
+  <skill name="SQL"/>
+  <skill name="Cloud"/>
+ </person>
