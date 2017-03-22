@@ -1,0 +1,5 @@
+this is a test file
+line in file1
+line in file2
+line in file3
+line in file4
