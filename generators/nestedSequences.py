@@ -1,0 +1,15 @@
+python
+plain=["spring","summer","fall","winter"]
+plain
+seasons=["favorite",("spring","summer"),["fall","winter"]]
+seasons
+plain[0]
+seasons[0]
+seasons[0][0]
+seasons[0][1]
+scores=[("alext",99),("jim",90),("jane",90)]
+scores
+scores[0]
+scores[1]
+scores[2]
+scores[2][1]
