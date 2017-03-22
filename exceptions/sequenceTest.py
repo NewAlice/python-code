@@ -1,0 +1,25 @@
+t=tuple(range(25))
+print(t)
+print(type(t))
+print(10 in t)
+print(50 in t)
+print(50 not in t)
+print('t[10] is %d' % t[10])
+print('len of t is %d' %len(t))
+for i in t: print(i)
+x=list(range(20))
+print(10 in x)
+print(20 in x)
+print(20 not in x)
+for i in x: print(i)
+#t[10]=25
+x[10]=25
+print(x)
+print(t.count)
+print(t.count(5))
+print(t.index(5))
+t
+#t.append(100)
+x.append(100)
+print(x)
+
