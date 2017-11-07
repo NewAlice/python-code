@@ -1,4 +1,4 @@
-from urllib import urlopen
+from urllib2 import urlopen
 import re
 p = re.compile('<h3><a .*?><a .*? href="(.*?)">(.*?)</a>')
 text = urlopen('https://www.python.org/jobs/').read()
